@@ -37,6 +37,7 @@ _____________________________________________________
 
 Un code simple permettant l'envoi d'une action au robot par l'intermédiaire d'un port Série RS-232
 Documentation similaire à celle de la Mini SSC-II.
+Le bon fonctionnement de l'application nécessite cependant Minicom sur Linux (ou configuration port série).
 
 
 
